@@ -13096,5 +13096,16 @@
       }
     },
     "id": "cc50c6e5-00f6-4821-b3f7-1a67eff24b74"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "🍿 YouTube watch hours"
+        }
+      }
+    },
+    "id": "3a4f2577-32f0-4f01-8c93-d902ade0f6cb"
   }
 ]
