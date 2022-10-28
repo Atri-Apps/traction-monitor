@@ -1,5 +1,8 @@
 {
-  "Flex": 2,
+  "Flex": 13,
   "Image": 1,
-  "TextBox": 1
+  "TextBox": 4,
+  "BarChart": 3,
+  "Div": 1,
+  "Button": 2
 }
