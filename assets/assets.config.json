@@ -4,5 +4,26 @@
   },
   "trending-up.svg": {
     "mime": "image/svg+xml"
+  },
+  "twitter-share.svg": {
+    "mime": "image/svg+xml"
+  },
+  "twitter logo.png": {
+    "mime": "image/png"
+  },
+  "GitHub logo.png": {
+    "mime": "image/png"
+  },
+  "github.png": {
+    "mime": "image/png"
+  },
+  "logo_without_bg.png": {
+    "mime": "image/png"
+  },
+  "app_logo.svg": {
+    "mime": "image/svg+xml"
+  },
+  "github_navbar.png": {
+    "mime": "image/png"
   }
 }
